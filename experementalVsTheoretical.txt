@@ -1,0 +1,35 @@
+White 0; Red 1
+Theoretical 1 in 38.32
+Experimental 1 in 37.61
+
+White 1; Red 1
+Theoretical 1 in 91.98
+Experimental 1 in 90.42
+
+White 2; Red 1
+Theoretical 1 in 701.33
+Experimental 1 in 613.5
+
+White 3; Red 0
+Theoretical 1 in 579.76
+Experimental 1 in 595.24
+
+White 3; Red 1
+Theoretical 1 in 14494.11
+Experimental 1 in 9090.91
+
+White 4; Red 0
+Theoretical 1 in 36525.17
+Experimental 1 in 100000.0
+
+White 4; Red 1
+Theoretical 1 in 913129.18
+Experimental 1 in 9.223372036854776E16
+
+White 5; Red 0
+Theoretical 1 in 1.168805352E7
+Experimental 1 in 9.223372036854776E16
+
+White 5; Red 1
+Theoretical 1 in 2.92201338E8
+Experimental 1 in 9.223372036854776E16
